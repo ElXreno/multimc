@@ -7,7 +7,7 @@
 %global quazip_shortcommit          %(c=%{quazip_commit}; echo ${c:0:7})
 
 Name:           multimc
-Version:        0.6.13
+Version:        0.7.0
 Release:        1%{?dist}
 Summary:        Minecraft launcher with ability to manage multiple instances
 
